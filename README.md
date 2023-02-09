@@ -6,7 +6,7 @@
 ## ChatGPT初体验
 主要是科学上网+注册一个账号，其中注册账号需要海外手机号，这里不详细介绍，有需要可以联系我见文末WX。有了账号直接登录即可体验：
 
-![ChatGPT初体验]()
+![ChatGPT初体验](https://github.com/summerjava/awesome-chatgpt/blob/main/ChatGPT%E5%88%9D%E4%BD%93%E9%AA%8C.png)
 
 ## ChatGPT是什么  
 ChatGPT (全文 Chat Generative Pre-trained Transformer ) 是由OpenAI开发的一个人工智能聊天机器人程序，于2022年11月推出。该程序使用基于GPT-3.5架构的大型语言模型并通过强化学习进行训练。
