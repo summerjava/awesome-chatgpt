@@ -1,6 +1,8 @@
 # awesome-chatgpt
 关于ChatGPT一切好玩的东西~
 
+![ChatGPT](https://github.com/summerjava/awesome-chatgpt/blob/main/chatgpt.png)
+
 ## ChatGPT是什么  
 ChatGPT (全文 Chat Generative Pre-trained Transformer ) 是由OpenAI开发的一个人工智能聊天机器人程序，于2022年11月推出。该程序使用基于GPT-3.5架构的大型语言模型并通过强化学习进行训练。
 
@@ -18,6 +20,6 @@ Download ChatGPT Desktop App: [macOS](https://github.com/lencx/ChatGPT/releases/
 [python](https://github.com/acheong08/ChatGPT)  
 
 ## ChatGPT的技术演进
-
+![ChatGPT的技术演进](https://github.com/summerjava/awesome-chatgpt/blob/main/GPT%E5%AE%B6%E6%97%8F%E7%9A%84%E6%BC%94%E5%8C%96.png)
 
 
