@@ -48,6 +48,9 @@ Download ChatGPT Desktop App: [macOS](https://github.com/lencx/ChatGPT/releases/
 ## 学习资料
 - [ChatGPT研究框架（80页PPT）| 国君计算机](https://mp.weixin.qq.com/s/YtJn2pfdS_on1nSATOylYw)
 
+## 欢迎共建
+欢迎STAR以及提交Pull requests共同打造~
+
 ---
 
 若需要加ChatGPT交流VIP群/体验ChatGPT官方注册永久账号请联系（备注ChatGPT）：  
