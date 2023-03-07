@@ -1,5 +1,5 @@
 # awesome-chatgpt
-关于ChatGPT一切好玩的东西~
+关于ChatGPT一切好玩的东西，持续更新~
 
 ![ChatGPT](https://github.com/summerjava/awesome-chatgpt/blob/main/chatgpt.png)
 
@@ -33,7 +33,7 @@ Download ChatGPT Desktop App: [macOS](https://github.com/lencx/ChatGPT/releases/
 ![ChatGPT的技术演进](https://github.com/summerjava/awesome-chatgpt/blob/main/GPT%E5%AE%B6%E6%97%8F%E7%9A%84%E6%BC%94%E5%8C%96.png)
 
 ## 最新新闻资讯
-
+- [独立产品灵感周刊 DecoHack #050 - 基于 ChatGPT 的 API 能做什么产品](https://decohack.zhubai.love/posts/2244447748458225664)
 - [百度预计3月份推出文心一言](https://www.geekpark.net/news/314648)
 - [阿里类ChatGPT正在内测](https://www.zaobao.com.sg/realtime/china/story20230209-1361268)
 
@@ -47,6 +47,9 @@ Download ChatGPT Desktop App: [macOS](https://github.com/lencx/ChatGPT/releases/
 
 ## 学习资料
 - [ChatGPT研究框架（80页PPT）| 国君计算机](https://mp.weixin.qq.com/s/YtJn2pfdS_on1nSATOylYw)
+- [ChatGPT-开启AI新纪元.pdf](https://github.com/summerjava/awesome-chatgpt/blob/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/ChatGPT-%E5%BC%80%E5%90%AFAI%E6%96%B0%E7%BA%AA%E5%85%83.pdf)
+- [从CHAT_GPT到生成式AI.pdf](https://github.com/summerjava/awesome-chatgpt/blob/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/%E4%BB%8ECHAT_GPT%E5%88%B0%E7%94%9F%E6%88%90%E5%BC%8FAI.pdf)
+- [ChatGPT-真格基金分享.pdf](https://github.com/summerjava/awesome-chatgpt/blob/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/ChatGPT-%E7%9C%9F%E6%A0%BC%E5%9F%BA%E9%87%91%E5%88%86%E4%BA%AB.pdf)
 
 ## 欢迎共建
 欢迎STAR以及提交Pull requests共同打造~
