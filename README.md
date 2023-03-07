@@ -50,6 +50,7 @@ Download ChatGPT Desktop App: [macOS](https://github.com/lencx/ChatGPT/releases/
 - [ChatGPT-开启AI新纪元.pdf](https://github.com/summerjava/awesome-chatgpt/blob/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/ChatGPT-%E5%BC%80%E5%90%AFAI%E6%96%B0%E7%BA%AA%E5%85%83.pdf)
 - [从CHAT_GPT到生成式AI.pdf](https://github.com/summerjava/awesome-chatgpt/blob/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/%E4%BB%8ECHAT_GPT%E5%88%B0%E7%94%9F%E6%88%90%E5%BC%8FAI.pdf)
 - [ChatGPT-真格基金分享.pdf](https://github.com/summerjava/awesome-chatgpt/blob/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/ChatGPT-%E7%9C%9F%E6%A0%BC%E5%9F%BA%E9%87%91%E5%88%86%E4%BA%AB.pdf)
+- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 
 ## 欢迎共建
 欢迎STAR以及提交Pull requests共同打造~
