@@ -30,6 +30,9 @@ Download ChatGPT Desktop App: [macOS](https://github.com/lencx/ChatGPT/releases/
 - [一行Python代码搞定ChatGPT调用](https://github.com/summerjava/awesome-chatgpt/blob/main/%E5%8A%A8%E6%89%8B%E5%AE%9E%E8%B7%B5/%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E6%90%9E%E5%AE%9APython%E8%B0%83%E7%94%A8ChatGPT.md)
 - [ChatGPT的Springboot starter](https://github.com/flashvayne/chatgpt-spring-boot-starter)
 
+## 衍生工具
+- [chatyoutube.com-把YouTube视频链接丢给它大概 10 秒钟之后就可以随便提问](https://chatyoutube.com/)
+
 ## ChatGPT的技术演进
 ![ChatGPT的技术演进](https://github.com/summerjava/awesome-chatgpt/blob/main/GPT%E5%AE%B6%E6%97%8F%E7%9A%84%E6%BC%94%E5%8C%96.png)
 
