@@ -30,13 +30,14 @@ Download ChatGPT Desktop App: [macOS](https://github.com/lencx/ChatGPT/releases/
 - [一行Python代码搞定ChatGPT调用](https://github.com/summerjava/awesome-chatgpt/blob/main/%E5%8A%A8%E6%89%8B%E5%AE%9E%E8%B7%B5/%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E6%90%9E%E5%AE%9APython%E8%B0%83%E7%94%A8ChatGPT.md)
 - [ChatGPT的Springboot starter](https://github.com/flashvayne/chatgpt-spring-boot-starter)
 
-## 衍生工具
+## 系列产品
 - [chatyoutube.com-把YouTube视频链接丢给它大概 10 秒钟之后就可以随便提问](https://chatyoutube.com/)
 
 ## ChatGPT的技术演进
 ![ChatGPT的技术演进](https://github.com/summerjava/awesome-chatgpt/blob/main/GPT%E5%AE%B6%E6%97%8F%E7%9A%84%E6%BC%94%E5%8C%96.png)
 
 ## 最新新闻资讯
+- [GPT-4震撼发布：多模态大模型，直接升级ChatGPT、必应，开放API，游戏终结了？](https://mp.weixin.qq.com/s/kA7FBZsT6SIvwIkRwFS-xw)
 - [独立产品灵感周刊 DecoHack #050 - 基于 ChatGPT 的 API 能做什么产品](https://decohack.zhubai.love/posts/2244447748458225664)
 - [百度预计3月份推出文心一言](https://www.geekpark.net/news/314648)
 - [阿里类ChatGPT正在内测](https://www.zaobao.com.sg/realtime/china/story20230209-1361268)
