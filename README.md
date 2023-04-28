@@ -57,6 +57,9 @@ Download ChatGPT Desktop App: [macOS](https://github.com/lencx/ChatGPT/releases/
 - [ChatGPT-真格基金分享.pdf](https://github.com/summerjava/awesome-chatgpt/blob/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/ChatGPT-%E7%9C%9F%E6%A0%BC%E5%9F%BA%E9%87%91%E5%88%86%E4%BA%AB.pdf)
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 
+## 视频教程
+- [吴恩达和OpenAI联合做的《面向开发者ChatGPT提问工程》9课时免费课程](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction)
+
 ## 欢迎共建
 欢迎STAR以及提交Pull requests共同打造~
 
